@@ -1,0 +1,3 @@
+sqlalchemy
+dota2api
+requests
