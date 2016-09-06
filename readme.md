@@ -7,6 +7,10 @@ You need to set envoirment variable ```D2_API_KEY``` - you can get your Steam We
 
     pip install -r requirements.txt
 
+Create the database
+
+    touch matches.db
+
 Run the scraper
 
     pyhton -u main.py
