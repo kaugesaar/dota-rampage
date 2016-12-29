@@ -13,4 +13,4 @@ Create the database
 
 Run the scraper
 
-    pyhton -u main.py
+    python -u main.py
